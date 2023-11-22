@@ -1,0 +1,10 @@
+
+!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+	
+Сегодня 11 февраля 1992 г.
+
+list the best
+
+char
+	
+1 && (0 || 1)t
